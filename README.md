@@ -10,17 +10,17 @@ In memoriam of all the unfinished things that taught me something valuable.
 
 Year | Project                               | Langs     | Libs/Tools
 -----|---------------------------------------|-----------|-----------
-2011 | [pong clone](## pong clone)           | C++       | SDL1.2, OpenGL
-2012 | [untitled game 1](## untitled game 1) | C++       | SDL1.2, OpenGL
-2013 | [untitled game 2](## untitled game 2) | C++, Angelscript | SDL1.2, OpenGL
+2011 | [pong clone](##pong-clone)           | C++       | SDL1.2, OpenGL
+2012 | [untitled game 1](##untitled-game-1) | C++       | SDL1.2, OpenGL
+2013 | [untitled game 2](##untitled-game-2) | C++, Angelscript | SDL1.2, OpenGL
 2013 | [delta](## delta)                     | Haxe      | Stencyl Engine
-2014 | [various h-games](## various h-games) | AS3       | Citrus Engine, Dragonbones
-2015 | [lan party](## lan party)             | Java      | LWJGL, Slick2D
-2016 | [all-90](## all-90)                   | C, Lua    | SDL2, OpenGL
-2016 | [cave game](## cave game)             | C, Lua    | SDL2, OpenGL
-2016 | [moony](## moony)                     | C, Lua    | SDL2, OpenGL
-2016 | [point & click](## point & click)     | C, Lua    | SDL2, OpenGL
-2017 | [trivia game](## trivia game)         | C#        | Unity Engine
+2014 | [various h-games](##various-h-games) | AS3       | Citrus Engine, Dragonbones
+2015 | [lan party](##-lan-party)             | Java      | LWJGL, Slick2D
+2016 | [all-90](##all-90)                   | C, Lua    | SDL2, OpenGL
+2016 | [cave game](##cave-game)             | C, Lua    | SDL2, OpenGL
+2016 | [moony](##moony)                     | C, Lua    | SDL2, OpenGL
+2016 | [point & click](##point-&-click)     | C, Lua    | SDL2, OpenGL
+2017 | [trivia game](##trivia-game)         | C#        | Unity Engine
 
 
 
@@ -29,7 +29,7 @@ Year | Project                               | Langs     | Libs/Tools
 
 I made this when I was 17 and had just started learning programming more seriously. Before this, I had fiddled with Actionscript 2 and Actionscript 3, Ruby, RMXP, Unity, etc. in middle and high school, but hadn't really grasped any programming concepts well. Amazingly, my ex-husband still had the email I excitedly sent him with the exe.
 
-[download (Win32)](2011/pong-clone/pong-clone.zip)
+[download (Win32)](pong-clone/pong-clone.zip)
 
 
 
@@ -115,7 +115,6 @@ After finishing the framework, I tossed it. The project gave me a little more so
 
 ## point & click
 <blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">Transitions are fun. <a href="https://twitter.com/hashtag/indiedev?src=hash">#indiedev</a> <a href="https://twitter.com/hashtag/gamedev?src=hash">#gamedev</a> <a href="https://t.co/yAqNqi8SVs">pic.twitter.com/yAqNqi8SVs</a></p>&mdash; TrashGirl (@transmutrix) <a href="https://twitter.com/transmutrix/status/806644420690976769">December 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Many students at my college struggle with early computer science classes. As one of *only two* CS tutors at the school, I attributed part of the problem to bad textbooks, bad example problems, and not enough course curricula focused on *making* things. One instructor seemed to be making efforts to fix this by trying out a project-based curriculum.
 
