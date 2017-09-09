@@ -10,17 +10,17 @@ In memoriam of all the unfinished things that taught me something valuable.
 
 Year | Project                               | Langs     | Libs/Tools
 -----|---------------------------------------|-----------|-----------
-2011 | [pong clone](##pong-clone)           | C++       | SDL1.2, OpenGL
-2012 | [untitled game 1](##untitled-game-1) | C++       | SDL1.2, OpenGL
-2013 | [untitled game 2](##untitled-game-2) | C++, Angelscript | SDL1.2, OpenGL
-2013 | [delta](## delta)                     | Haxe      | Stencyl Engine
-2014 | [various h-games](##various-h-games) | AS3       | Citrus Engine, Dragonbones
-2015 | [lan party](##-lan-party)             | Java      | LWJGL, Slick2D
-2016 | [all-90](##all-90)                   | C, Lua    | SDL2, OpenGL
-2016 | [cave game](##cave-game)             | C, Lua    | SDL2, OpenGL
-2016 | [moony](##moony)                     | C, Lua    | SDL2, OpenGL
-2016 | [point & click](##point-&-click)     | C, Lua    | SDL2, OpenGL
-2017 | [trivia game](##trivia-game)         | C#        | Unity Engine
+2011 | [pong clone](#pong-clone)           | C++       | SDL1.2, OpenGL
+2012 | [untitled game 1](#untitled-game-1) | C++       | SDL1.2, OpenGL
+2013 | [untitled game 2](#untitled-game-2) | C++, Angelscript | SDL1.2, OpenGL
+2013 | [delta](#delta)                     | Haxe      | Stencyl Engine
+2014 | [various h-games](#various-h-games) | AS3       | Citrus Engine, Dragonbones
+2015 | [lan party](#lan-party)             | Java      | LWJGL, Slick2D
+2016 | [all-90](#all-90)                   | C, Lua    | SDL2, OpenGL
+2016 | [cave game](#cave-game)             | C, Lua    | SDL2, OpenGL
+2016 | [moony](#moony)                     | C, Lua    | SDL2, OpenGL
+2016 | [point & click](#point-&-click)     | C, Lua    | SDL2, OpenGL
+2017 | [trivia game](#trivia-game)         | C#        | Unity Engine
 
 
 
