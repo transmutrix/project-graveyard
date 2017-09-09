@@ -136,4 +136,6 @@ We started with one of Unity's sample projects, and in a snowed-in and fluey wee
 
 I think we had a cool idea, and if done properly, it could have been pretty nice. Still, for an assignment done in a rush, we were happy with what we managed to do. It was beyond the scope of most projects done for courses at our school.
 
+(Yes, I'm aware that "Olympus" would suggest Greek history, which was a planned world for the game. Unfortunately, we were only able to finish Egypt in the alotted time...)
+
 [download (Android)](trivia/Android.apk)
