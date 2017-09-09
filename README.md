@@ -25,7 +25,7 @@ Year | Project                               | Langs     | Libs/Tools
 
 
 ## pong clone
-![screenshot](2011/pong-clone/screen.png)
+![screenshot](pong-clone/screen.png)
 
 I made this when I was 17 and had just started learning programming more seriously. Before this, I had fiddled with Actionscript 2 and Actionscript 3, Ruby, RMXP, Unity, etc. in middle and high school, but hadn't really grasped any programming concepts well. Amazingly, my ex-husband still had the email I excitedly sent him with the exe.
 
